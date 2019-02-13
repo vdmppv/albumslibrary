@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
-#test = "пидорас"
-#print("Пошёл нахуй " + test)
+#test = "Мир"
+#print("Привет" + ", " + test)
 
 import sys
 
